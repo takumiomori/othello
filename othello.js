@@ -1,4 +1,5 @@
 const board = document.querySelector('#board');
+        //オセロの状態を保存する配列
         const game = [];
         let count = 0;
 
